@@ -7,3 +7,7 @@ def open3():
     print(1+3)
 
 open3()
+def open2():
+    print(1+2)
+
+open2()
